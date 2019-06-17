@@ -1,0 +1,17 @@
+[
+  {
+    "first_name":"John",
+    "last_name":"Doe",
+    "phone": "0523755299"
+  },
+  {
+    "first_name":"Ab",
+    "last_name":"Cohen",
+    "phone": "0548146955"
+  },
+  {
+    "first_name":"Jack",
+    "last_name":"Segal",
+    "phone": "0756789065"
+  }
+]
