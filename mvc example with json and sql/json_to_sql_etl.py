@@ -18,6 +18,7 @@ def read_from_json():
                   "last_name": item['last_name'],
                   "phone": item['phone']}
         result.append(person)
+
     return result
 
 def save_to_db(json_list):

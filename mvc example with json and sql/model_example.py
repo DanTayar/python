@@ -82,3 +82,5 @@ class Person(object):
         person_ref = db.collection(u'person')
         doc_ref = person_ref.document()
         doc_ref.set({u'first_name':first_name, u'last_name': last_name , u'phone':phone})
+
+# Person().addNewFirestore('ttt','ttt','3414523452')
